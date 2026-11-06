@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/oprypin/mkdocs-section-index/commit/5b710e75cbe5f81846fb8dc79211d7a06b2d090b",
       "git:hexsha": "5b710e75cbe5f81846fb8dc79211d7a06b2d090b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/oprypin/mkdocs-section-index/commit/a6b76f66b30d5ee223b4c448027b3922fcfc4856",
