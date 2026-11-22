@@ -119,6 +119,43 @@
       ],
       "ast": [
         "aggregate/ast/a8235f6f8eb5927b966a3aaea8afe5fa161ecece/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a8235f6f8eb5927b966a3aaea8afe5fa161ecece.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "mkdocs",
+          "ecosystem": "PYPI",
+          "version": "1.2",
+          "githubOrg": "mkdocs",
+          "githubRepo": "mkdocs",
+          "githubCommit": "cd43e9a24346f7db8d2646e0287f8d40735360ff",
+          "githubTag": "1.2",
+          "githubUrl": "https://github.com/mkdocs/mkdocs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "properdocs",
+          "ecosystem": "PYPI",
+          "version": "1.6.5",
+          "githubOrg": "properdocs",
+          "githubRepo": "properdocs",
+          "githubCommit": "01fe59b2a43df0fed8282f74520b0f32fb0fd043",
+          "githubTag": "v1.6.5",
+          "githubUrl": "https://github.com/properdocs/properdocs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jinja2",
+          "ecosystem": "PYPI",
+          "version": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja",
+          "githubCommit": "15206881c006c79667fe5154fe80c01c65410679",
+          "githubTag": "3.1.6",
+          "githubUrl": "https://github.com/pallets/jinja",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/jinja2/environment.py"
+        }
       ]
     }
   ],
