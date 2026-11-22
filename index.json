@@ -3,6 +3,11 @@
   "repo": "mkdocs-section-index",
   "versions": [
     {
+      "commit": "a8235f6f8eb5927b966a3aaea8afe5fa161ecece",
+      "tag": "v0.3.11",
+      "parsed_at": "2026-11-22T00:29:41.703922+00:00"
+    },
+    {
       "commit": "5b710e75cbe5f81846fb8dc79211d7a06b2d090b",
       "tag": "",
       "parsed_at": "2026-11-06T02:12:41.024508+00:00"
